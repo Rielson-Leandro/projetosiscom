@@ -25,6 +25,10 @@ Simulador de colisão em etiquetas RFID, utilizando Java para a simulação, uti
 
 * Colocar o nome do estimador(por exemplo lower bound, eom lee)
 
+# Apresentação
+
+<a href="https://docs.google.com/presentation/d/1bFO9SROTKPCPBEP9jDjz58Cq1eaSY9kyYLHjfLcs2f0/edit?usp=sharing">Slides</a>
+
 
 # Grupo: 
 
